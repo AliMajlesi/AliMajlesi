@@ -8,7 +8,7 @@ But he's not just all code and no humor 😂, he knows that sharing his mistakes
 
 - 🔭 I’m currently working in [Nitaco](https://nitaco.holdings/)
 - 👯 I’m looking to collaborate on .Net Projects
-- 💬 Talk to me about .Net Core, C#, Microsoft Azure, Microservices, CQRS, DDD 
+- 💬 Talk to me about .Net Core, C#, DevOps, Microservices, CQRS, DDD 
 - 🌱 I’m learning more and more...
 - 👯 I’m looking to collaborate on remote .net developer position
 - ⚡ Fun fact: I am a developer
